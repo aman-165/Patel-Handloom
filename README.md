@@ -138,7 +138,7 @@ Patel-Handloom/<br>
 1. **Clone the repository:**
 
    ```bash
-  git clone https://github.com/aman-165/Patel-Handloom.git
+   git clone https://github.com/aman-165/Patel-Handloom.git
 
 2. **Open the project:**
     ```bash
