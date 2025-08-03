@@ -2,7 +2,7 @@
 
 A beautifully crafted traditional textile website showcasing handwoven elegance, premium Indian craftsmanship, and ethnic artistry. Built with HTML, CSS, and responsive design techniques.
 
-![Home Preview](<img width="1641" height="753" alt="Screenshot 2025-08-03 001308" src="https://github.com/user-attachments/assets/ec3a5cfb-12e1-43fa-b05e-b6e2249d2e57" />)
+![Home Preview]<img width="1641" height="753" alt="Screenshot 2025-08-03 001308" src="https://github.com/user-attachments/assets/ec3a5cfb-12e1-43fa-b05e-b6e2249d2e57" />
 
 
 ---
