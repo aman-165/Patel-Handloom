@@ -32,7 +32,7 @@ A detailed overview of **Patel Handloom's** heritage and authenticity:
 
 ## 💼 Our Services
 
-<img width="815" height="816" alt="Screenshot 2025-08-03 001446" src="https://github.com/user-attachments/assets/aa91d7c4-5f3a-4619-a2fe-3fc1e1e99060" />
+<img width="1365" height="822" alt="Screenshot 2025-08-03 001403" src="https://github.com/user-attachments/assets/421f22d7-448c-4d07-becc-6ed04979b133" />
 
 
 Feature cards for all key services:
