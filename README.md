@@ -32,7 +32,7 @@ A detailed overview of **Patel Handloom's** heritage and authenticity:
 
 ## 💼 Our Services
 
-<img width="1365" height="822" alt="Screenshot 2025-08-03 001403" src="https://github.com/user-attachments/assets/7c65d06d-54e2-4942-90cb-d65a5038b5f7" />
+<img width="815" height="816" alt="Screenshot 2025-08-03 001446" src="https://github.com/user-attachments/assets/aa91d7c4-5f3a-4619-a2fe-3fc1e1e99060" />
 
 
 Feature cards for all key services:
@@ -86,7 +86,7 @@ Showcase the professionals behind Patel Handloom — your designers, strategists
 
 ## 📬 Get in Touch
 
-]<img width="1829" height="759" alt="Screenshot 2025-08-03 001857" src="https://github.com/user-attachments/assets/2c924722-f5f9-4b04-9a24-eba1de6d9099" />
+<img width="1829" height="759" alt="Screenshot 2025-08-03 001857" src="https://github.com/user-attachments/assets/2c924722-f5f9-4b04-9a24-eba1de6d9099" />
 
 
 Simple form with:
@@ -167,7 +167,7 @@ Patel-Handloom/<br>
 ---
 
 ## 📌 Future Improvements
-_Add animations and transitions
+- Add animations and transitions
 
 - Make product cards dynamic using JavaScript
 
